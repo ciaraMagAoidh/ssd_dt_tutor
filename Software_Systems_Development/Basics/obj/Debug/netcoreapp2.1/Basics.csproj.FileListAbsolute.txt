@@ -1,0 +1,4 @@
+/Users/ciarama/Desktop/edutech/Software_Systems_Development/Basics/obj/Debug/netcoreapp2.1/Basics.csprojAssemblyReference.cache
+/Users/ciarama/Desktop/edutech/Software_Systems_Development/Basics/obj/Debug/netcoreapp2.1/Basics.csproj.CoreCompileInputs.cache
+/Users/ciarama/Desktop/edutech/Software_Systems_Development/Basics/obj/Debug/netcoreapp2.1/Basics.AssemblyInfoInputs.cache
+/Users/ciarama/Desktop/edutech/Software_Systems_Development/Basics/obj/Debug/netcoreapp2.1/Basics.AssemblyInfo.cs
